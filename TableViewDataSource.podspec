@@ -80,7 +80,7 @@ Data Source structure and TableViewDataSource swift-implementation
   #  Supports git, hg, bzr, svn and HTTP.
   #
 
-  s.source       = { :git => "https://github.com/K0rka/TableViewDataSource.git", :tag => "0.0.1" }
+  s.source       = { :git => "https://github.com/K0rka/TestTableView.git", :tag => "0.0.1" }
 
 
   # ――― Source Code ―――――――――――――――――――――――――――――――――――――――――――――――――――――――――――――― #
